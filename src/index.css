@@ -25,6 +25,7 @@ textarea {
 .app-header__title {
   margin: 10px 20px 0px;
   font-family: Arial, sans-serif;
+  color: #001a33;
 }
 
 .app-header__controls {
@@ -50,7 +51,7 @@ textarea {
   cursor: pointer;
   padding: 8px;
   font-weight: bolder;
-  background-color: #eee;
+  background-color: #99ccff;
   outline: none;
 }
 
@@ -59,7 +60,7 @@ textarea {
   width: 200px;
   height: 200px;
   margin: 10px;
-  background-color: lightyellow;
+  background-color: #ffff99;
   border: 1px solid grey;
   box-shadow: 2px 2px 3px lightgrey;
   border-radius: 5px;
